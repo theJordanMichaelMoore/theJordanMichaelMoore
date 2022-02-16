@@ -1,4 +1,5 @@
-- 👋 Hello! I’m @theJordanMichaelMoore
+- 👋 :smile: Hello! I’m @theJordanMichaelMoore
+- :philippines: :us: I'm Half Filipino/Half American 
 - I'm an Air Force Veteran
 - I'm a X-Ray Tech by trade but I'm back in school to learn about Cyber Security.
 - On my spare time, I've been teaching myself HTML, CSS, and Javascript by making my portfolio web page. I'll be starting more projects soon!
