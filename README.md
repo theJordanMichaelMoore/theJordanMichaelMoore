@@ -1,4 +1,4 @@
-- 👋 :smile: Hello! I’m @theJordanMichaelMoore
+- 👋 :smile: Hello! I’m Jordan
 -  I'm Half Filipino/Half American 
 - :muscle: I'm an Air Force Veteran
 - :skull: :man_student: I'm a X-Ray Tech by trade but I'm back in school to learn about Cyber Security.
